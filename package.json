@@ -1,0 +1,16 @@
+{
+    "name": "transport-app",
+    "version": "1.0.0",
+    "description": "Simple Transport App",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "express-handlebars": "^7.1.2"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.1"
+    }
+  }

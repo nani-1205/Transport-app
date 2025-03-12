@@ -1,0 +1,28 @@
+{
+    "transportOptions": [
+      {
+        "id": 1,
+        "name": "Bus",
+        "description": "A public bus service.",
+        "image": "/img/bus.png",
+        "availability": "Daily",
+        "price": 2.50
+      },
+      {
+        "id": 2,
+        "name": "Train",
+        "description": "A fast and efficient train service.",
+        "image": "/img/train.png",
+        "availability": "Weekdays",
+        "price": 5.00
+      },
+      {
+        "id": 3,
+        "name": "Bike",
+        "description": "Rentable Bike Service",
+        "image": "/img/bike.png",
+        "availability": "Always",
+        "price": 1.20
+      }
+    ]
+  }
